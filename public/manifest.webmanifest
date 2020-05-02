@@ -1,6 +1,13 @@
 {
-    "short_name": "Budget Tracker",
     "name": "Budget Tracker",
+    "short_name": "Budget Tracker",
+    "icons": [
+        {
+            "src": "images/budget-icon.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        }
+    ],
     "start_url": "/",
     "background_color": "#F7FAFC",
     "display": "standalone"
