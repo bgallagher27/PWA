@@ -1,5 +1,5 @@
 ![badge](https://img.shields.io/static/v1?label=Created-By&message=ProgressiveWebApps&color=blue)
-# Burger
+# PWA
 
 # Description:
 PWA gives dynamic functionality to a budget tracking app, which helps the user track and manage their personal finances. Specifically, PWA makes the budget tracker a Progressive Web App, which allows the app to function equally well offline as it does online. This functionality is especially useful for situations where the user may be out and about, and not always able to connect to the internet. Give it a try!
